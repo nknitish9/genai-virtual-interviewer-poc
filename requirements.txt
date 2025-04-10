@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+torch
+peft
+chromadb
+pydantic
+PyPDF2
