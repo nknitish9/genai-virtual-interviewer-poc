@@ -83,6 +83,8 @@ The system follows a microservices architecture with these key components:
 - **PostgreSQL Database**: Persistent storage for application data
 - **Redis Cache**: Performance optimization and session management
 
+![Architecture Diagram](architecture_diagram.png)
+
 ## Features
 
 - Real-time interview conversations with adaptive questioning
@@ -107,4 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or support, please contact your project team lead.
+For questions, suggestions, or support, please open an issue or contact [Email](mailto:nknitish90062@gmail.com).
